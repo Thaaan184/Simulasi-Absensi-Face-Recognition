@@ -5,3 +5,4 @@ tkinter
 cv2
 numpy
 pillow
+opencv-contrib-python
